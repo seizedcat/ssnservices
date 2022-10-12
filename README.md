@@ -1,30 +1,10 @@
 # SSN
-A shit CNC made by a retard called Space.
+This is the leak of SSN Services Ran By Space
+Note That The ONLY Reason I Gave These People Access To The Server The CNC Was Running Was Because Of Them CLAIMING That SSN Logs API Keys And Uses Them On Pluto
+Have Fun With The Leak i guess
 
-Space owns a shit C2 called Pluto, that uses every single fucking API Key ever.
-
-How you may ask? Space sells a CNC called SSN, so what he does is, Log it's users API Keys, and add them to Pluto.
-
-Funny right?, well enjoy, this is only the builds I'll upload the crack soon.
-
-# Replacement
-Replacing a CNC you used before kinda sucks ass, and well you have to now.
-
-I'm gonna take a second of your time to advertise a funny little CNC my friend owns.
-
-[FB](FB_1234.t.me) owns a CNC by the name of Nosviak2, This CNC has been confirmed to be Fully Safe.
-
-It has so many more features than most CNCs on the market, and it's 20$ only.
-
-DM him to purchase.
-
--
-
-also, [Cupid](@CupidVX) owns a CNC by the name of Compact, This CNC has been also confirmed to be Fully Safe.
-
-It has some good features, you could consider it as Nosviak2 but Lightweight, it's also 15$ only.
-
-DM him to purchase.
+https://t.me/bigddos
+https://t.me/seized1337
 # Credits
 [raid](sock_stream.t.me) - GitHub Post\
 [pxzdano](pxzdano.t.me) - Cracking\
